@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Intelligent Auto-Completion Engine",
+    "desc": "Built a conversational engine integrating Trie search, Bigram prediction, and Red-Black Tree indexing. Provides real-time prefix suggestions and semantic associations.",
+    "image": "webchat",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/yaswanth"
+    }
+  },
+  {
+    "name": "Handwritten Math Symbol Classifier",
+    "desc": "Developed a high-accuracy handwritten math OCR system by fine-tuning ResNet-18 on the Kaggle Math Symbols dataset, achieving 96.6% test accuracy.",
+    "image": "resumegen",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/yaswanth"
+    }
+  },
+  {
+    "name": "Portable Weather Station",
+    "desc": "Built a multi-sensor system providing real-time environmental readings (STM32, Embedded C, DHT22, LDR, Rain Sensor, I2C LCD).",
+    "image": "weatherlyandroid",
+    "category": "iot",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/yaswanth"
+    }
+  }
+]
