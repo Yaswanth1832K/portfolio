@@ -215,6 +215,56 @@ const projectsData = [
             "view": "#",
             "code": "https://github.com/Yaswanth1832K/Intelligent-conversational-engine"
         }
+    },
+    {
+        "name": "ResNet Symbol Classifier",
+        "desc": "Implementation of ResNet architecture for classifying math symbols with high accuracy.",
+        "image": "cryptotracker",
+        "category": "ml",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/resnet-math-symbol-classifier"
+        }
+    },
+    {
+        "name": "Portable Weather Station",
+        "desc": "Built a multi-sensor system providing real-time environmental readings (STM32, Embedded C, DHT22, LDR, Rain Sensor, I2C LCD).",
+        "image": "weatherlyandroid",
+        "category": "iot",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/stm32-weather-station-pro"
+        }
+    },
+    {
+        "name": "Sci-Fi Reactor Room OpenGL",
+        "desc": "3D graphics simulation of a sci-fi reactor room using OpenGL and C++.",
+        "image": "gaming",
+        "category": "graphics",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/scifi-reactor-room-opengl"
+        }
+    },
+    {
+        "name": "Smart Irrigation Node",
+        "desc": "Real-time memory task monitoring system for smart irrigation nodes.",
+        "image": "iot",
+        "category": "iot",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/Smart-Irrigation-Node-with-Real-Time-Memory-Task-Monitoring"
+        }
+    },
+    {
+        "name": "CPU Scheduling Algorithms",
+        "desc": "Simulation and analysis of various CPU scheduling algorithms.",
+        "image": "code",
+        "category": "os",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/CPU-Scheduling"
+        }
     }
 ];
 
