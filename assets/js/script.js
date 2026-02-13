@@ -183,7 +183,7 @@ const projectsData = [
         "category": "web",
         "links": {
             "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Evergreen-Luxury"
+            "code": "https://github.com/Yaswanth1832K/e-plantShopping"
         }
     },
     {
@@ -193,7 +193,7 @@ const projectsData = [
         "category": "ml",
         "links": {
             "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Smart-Resume-Analyzer"
+            "code": "https://github.com/Yaswanth1832K/SmartResumeAnalyzer"
         }
     },
     {
@@ -203,7 +203,7 @@ const projectsData = [
         "category": "python",
         "links": {
             "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Secure-Certificate-System"
+            "code": "https://github.com/Yaswanth1832K/secure-certificate-issuance-verification-system"
         }
     },
     {
