@@ -167,6 +167,46 @@ const skillsData = [
 // Projects Data
 const projectsData = [
     {
+        "name": "Nestora AI",
+        "desc": "Advanced AI-powered rental platform featuring intelligent property matching, secure transaction management, and automated tenant screening using LLMs.",
+        "image": "saas",
+        "category": "ml",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/Nestora-AI"
+        }
+    },
+    {
+        "name": "Evergreen Luxury",
+        "desc": "A premium e-commerce platform with a focus on immersive UI/UX, real-time inventory tracking, and seamless checkout experience.",
+        "image": "flipkartmern",
+        "category": "web",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/Evergreen-Luxury"
+        }
+    },
+    {
+        "name": "Smart Resume Analyzer",
+        "desc": "AI-driven career tool that leverages sentiment analysis and keyword extraction to optimize resumes for ATS compatibility.",
+        "image": "resumegen",
+        "category": "ml",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/Smart-Resume-Analyzer"
+        }
+    },
+    {
+        "name": "Secure Certificate System",
+        "desc": "Blockchain-inspired secure certificate issuance and verification system using cryptographic hashing and digital signatures.",
+        "image": "issuetrack",
+        "category": "python",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Yaswanth1832K/Secure-Certificate-System"
+        }
+    },
+    {
         "name": "Intelligent Auto-Completion Engine",
         "desc": "Built a conversational engine integrating Trie search, Bigram prediction, and Red-Black Tree indexing. Provides real-time prefix suggestions and semantic associations.",
         "image": "intelligent-engine",
@@ -174,106 +214,6 @@ const projectsData = [
         "links": {
             "view": "#",
             "code": "https://github.com/Yaswanth1832K/Intelligent-conversational-engine"
-        }
-    },
-    {
-        "name": "ResNet Symbol Classifier",
-        "desc": "Implementation of ResNet architecture for classifying math symbols.",
-        "image": "cryptotracker",
-        "category": "ml",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/resnet-math-symbol-classifier"
-        }
-    },
-    {
-        "name": "Portable Weather Station",
-        "desc": "Built a multi-sensor system providing real-time environmental readings (STM32, Embedded C, DHT22, LDR, Rain Sensor, I2C LCD).",
-        "image": "weatherlyandroid",
-        "category": "iot",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/stm32-weather-station-pro"
-        }
-    },
-    {
-        "name": "Travel Booking Website",
-        "desc": "A website for booking travel destinations and planning trips.",
-        "image": "travel",
-        "category": "web",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Travel-Booking-Website"
-        }
-    },
-    {
-        "name": "Sci-Fi Reactor Room OpenGL",
-        "desc": "3D graphics simulation of a sci-fi reactor room using OpenGL.",
-        "image": "gaming",
-        "category": "graphics",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/scifi-reactor-room-opengl"
-        }
-    },
-    {
-        "name": "Smart Irrigation Node",
-        "desc": "Real-time memory task monitoring system for smart irrigation nodes.",
-        "image": "iot",
-        "category": "iot",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Smart-Irrigation-Node-with-Real-Time-Memory-Task-Monitoring"
-        }
-    },
-    {
-        "name": "CPU Scheduling Algorithms",
-        "desc": "Simulation and analysis of various CPU scheduling algorithms.",
-        "image": "code",
-        "category": "os",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/CPU-Scheduling"
-        }
-    },
-    {
-        "name": "Blind Stick Project",
-        "desc": "Assistive technology project for visually impaired individuals.",
-        "image": "arduino",
-        "category": "iot",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/blind_stick"
-        }
-    },
-    {
-        "name": "Handwritten Math Symbol Classifier",
-        "desc": "Developed a high-accuracy handwritten math OCR system by fine-tuning ResNet-18 on the Kaggle Math Symbols dataset, achieving 96.6% test accuracy.",
-        "image": "linklist",
-        "category": "ml",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/Math-OCR-Symbol-Recognizer"
-        }
-    },
-    {
-        "name": "Express Book Reviews",
-        "desc": "Book review application built using Express.js and Node.js.",
-        "image": "newsboxandroid",
-        "category": "mern",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/expressBookReviews"
-        }
-    },
-    {
-        "name": "Plant Shopping App",
-        "desc": "E-commerce application for shopping plants online.",
-        "image": "foodicious",
-        "category": "web",
-        "links": {
-            "view": "#",
-            "code": "https://github.com/Yaswanth1832K/e-plantShopping"
         }
     }
 ];
